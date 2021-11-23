@@ -552,11 +552,11 @@ footer a:hover{
 @media (max-width: 767px){
     .hamb{
         display: block;
-        margin-right: 25px;
+        margin-right: 15px;
     }
     .logosuper{
         width: 65px;
-        margin-left: 25px;
+        margin-left: 15px;
     }
     .imgnita{
         padding: 0px;
