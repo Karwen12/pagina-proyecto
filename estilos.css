@@ -622,6 +622,17 @@ footer a:hover{
         left: 38%;
         top: 18%; 
     }
+    .texto{
+        position: absolute;
+        top: 35%;
+        left: 50%;
+        width: 250px;
+        text-align: center;
+        margin-left: -125px;
+    }
+    .texto img{
+        width: 250px;
+    }
 }
 
 
